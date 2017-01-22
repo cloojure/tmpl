@@ -1,0 +1,15 @@
+
+= My Clojure Project
+
+== Change Log
+
+.2017-1-2  Version 0.9.666:  Getting darker
+- make all food cold
+- burn the new arrivals
+- continue playing polka music
+
+
+Copyright © 2017 Alan Thompson.
+
+Distributed under the Eclipse Public License, the same as Clojure.
+

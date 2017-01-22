@@ -1,0 +1,13 @@
+
+
+= A New Clojure projectZ
+
+== Project Overview
+
+Have you ever wanted to do something new? This is your chance!
+== License
+
+Copyright © 2017 Alan Thompson.
+
+Distributed under the Eclipse Public License, the same as Clojure.
+
