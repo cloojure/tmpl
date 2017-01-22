@@ -11,7 +11,7 @@
     [org.clojure/math.combinatorics   "0.1.4"]
     [org.clojure/tools.analyzer       "0.6.9"]
     [clojure-csv/clojure-csv          "2.0.2"]
-    [tupelo                           "0.9.19"]
+    [tupelo                           "0.9.20"]
     [clj-time                         "0.13.0"]
     [cheshire                         "5.7.0"]
   ; [expectations                     "2.1.8"]
